@@ -1,1 +1,11 @@
-Hallo
+<!doctype html>
+<html lang=“de>
+<head>
+<meta charset=“utf-8“>
+<link rel=“stylesheet“ href=“stylesheet.css“ type=“text/css“>
+<title>Titel der Website</title>
+</head>
+<body>
+  <p> Text </p>
+</body>
+</html>
